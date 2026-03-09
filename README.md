@@ -1,26 +1,25 @@
-# Hospital-Management-System
+# Course-Reservation-and-Exam-registration-systems
 
-# Reg No: 212224240023
-# Name: B V REVANTH KUMAR
-# Date: 09/03/2026
+# Reg No:212224240023
+# Name:B V REVANTH KUMAR
+# Date:09/03/2026
 
 
 # AIM:
-To develop the Hospital Management System using Star UML.
+To develop the Course Reservation and Exam Registration System using Star UML
 
 # Problem Statement:
-1.Hospital Management System is needed to streamline and automate various hospital operations that are currently handled manually or with fragmented software, leading to inefficiencies and errors.
+1.Educational institutions face challenges in managing course registrations and exam enrollments manually, which often results in errors, inefficiencies, and student dissatisfaction.
 
-2.Managing patient records, appointments, billing, and medical histories manually causes delays, data loss, and poor coordination among departments.
+2.Students struggle with real-time access to course availability, prerequisites, time-table conflicts, and often miss deadlines or make incorrect exam registrations due to lack of system guidance.
 
-3.Patients face difficulties in booking appointments, accessing their medical reports, and receiving timely notifications for tests or follow-ups.
+3.There is no centralized platform to handle both course and exam registrations, making it difficult to track eligibility, enforce prerequisites, and generate reports or hall tickets accurately.
 
-4.Hospital staff and doctors require a centralized platform to manage patient information, schedule consultations, prescribe medications, and track treatments efficiently.
+4.Faculty and administrators require an automated system to create and manage course and exam schedules, monitor student registrations, and generate accurate academic records.
 
-5.The system should integrate pharmacy management, billing, staff management, and inventory control to improve overall hospital workflow and resource utilization.
+5.A combined system is needed to allow students to seamlessly register for courses and corresponding exams with real-time validation, schedule checks, seat availability, and automatic eligibility verification.
 
-6.It must ensure secure, role-based access for doctors, nurses, administrative staff, and patients, while maintaining data confidentiality and complying with healthcare regulations.
-
+6.The system must provide secure, role-based access for students, faculty, and administrators while ensuring timely notifications, analytics, and integration with academic databases for transparent and efficient academic management.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
@@ -40,9 +39,9 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5921397c-7fc4-45bf-8594-5ae74e54eb9a" />
 
 
-<img width="984" height="861" alt="image" src="https://github.com/user-attachments/assets/fc79c808-e66a-48de-b3c6-bf2500a26d89" />
 
 
 
@@ -60,8 +59,8 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/886887f5-cd24-450a-b086-ca2b20b980fa" />
 
-<img width="1166" height="841" alt="image" src="https://github.com/user-attachments/assets/b3e8602d-7063-424b-a764-f8704aeffd61" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,9 +68,9 @@ Create detailed charts that…
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e74d2c3-b36e-46ca-b908-a60cf410c5d6" />
 
 
-<img width="949" height="627" alt="image" src="https://github.com/user-attachments/assets/0a083302-a197-4560-ac5d-6ea38ec75b26" />
 
 
 # PACKAGE DIAGRAM:
@@ -83,9 +82,9 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d3451018-93c9-4d30-9fa1-753bf0ea438a" />
 
 
-<img width="899" height="726" alt="image" src="https://github.com/user-attachments/assets/6b4b9ea1-1440-4188-be3f-f5bd05b97778" />
 
 
 
@@ -102,8 +101,8 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e790a40f-b1b4-4057-834b-f0328bcfdaa5" />
 
-<img width="925" height="986" alt="image" src="https://github.com/user-attachments/assets/6df2adc4-c29e-497f-b698-3c5a28eecba5" />
 
 
 
@@ -124,12 +123,13 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fb3b904e-2d39-4b96-940e-45e0ab2b89d7" />
 
 
-<img width="887" height="754" alt="image" src="https://github.com/user-attachments/assets/dff15ce6-f97c-4df7-b128-2f2b94cb7b64" />
 
 
 
 # RESULT
 
-Thus the project to develop Hospital Management system was developed using Star UML Software is done successfully.
+Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
+
